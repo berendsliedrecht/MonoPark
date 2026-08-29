@@ -4,6 +4,12 @@ Minimal SMS parking app for the Mudita Kompakt (e-ink), built with the Mudita Mi
 
 The app does **not** handle payment: it only sends SMSParking's SMS commands, and billing happens on your pre-registered SMSParking account. You need an account first.
 
+<p align="center">
+  <img src="docs/start.png" width="30%" alt="Zone and vehicle selection">
+  <img src="docs/confirm.png" width="30%" alt="Send confirmation dialog">
+  <img src="docs/active.png" width="30%" alt="Running session timer">
+</p>
+
 ## How it works
 
 - **Start**: sends `<zone> <plate>` to `4030`.
