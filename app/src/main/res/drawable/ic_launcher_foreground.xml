@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Outlined parking "P" in a rounded square: thin black strokes on white, e-ink friendly. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- rounded square frame -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M38,30 H70 A8,8 0 0 1 78,38 V70 A8,8 0 0 1 70,78 H38 A8,8 0 0 1 30,70 V38 A8,8 0 0 1 38,30 Z" />
+
+    <!-- letter P -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M47,42 V66 M47,42 H56 A7,7 0 0 1 56,56 H47" />
+</vector>
