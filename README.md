@@ -36,6 +36,10 @@ Or grab the APK from [Releases](../../releases) and sideload it.
 - Needs a real SMSParking account and a SIM that can send SMS.
 - Session tracking is local (the authoritative session lives at SMSParking), so the timer reflects when you started via this app.
 
+## Support
+
+If you find this app useful, consider [sponsoring me](https://github.com/sponsors/berendsliedrecht).
+
 ## License
 
 [MIT](LICENSE)
