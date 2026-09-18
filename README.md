@@ -1,4 +1,4 @@
-# Park
+# MonoPark
 
 Minimal SMS parking app for the Mudita Kompakt (e-ink), built with the Mudita Mindful Design (MMD) framework. Type a zone code, pick a vehicle, and start a paid-parking session by SMS to [SMSParking](https://smsparking.nl). While a session runs, the app shows a live timer.
 

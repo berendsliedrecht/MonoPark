@@ -1,4 +1,4 @@
 <resources>
     <!-- MMD provides the composable theme; this is a minimal placeholder. -->
-    <style name="Theme.Park" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.MonoPark" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
